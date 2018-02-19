@@ -10,10 +10,7 @@ It is possible to set one or two alarms. When an alarm fires, it will sound some
 
 Identify the top-level functional requirement for the clock, and model it with a use case diagram.  (Use case description will come later.  Only create the use case diagram now.)
 
-https://github.com/mrbrhc/Alarm-Clock-Project/blob/master/alarmClockUseCase.JPG
+
 ![USE CASE alarmClock](https://github.com/mrbrhc/Alarm-Clock-Project/blob/master/alarmClockUseCase.JPG "Logo Title Text 1")
 
-3) The use case diagram you create.  Put the image in the repo and display it in the markdown of the README.md.
-
-Submit the Clone with HTTPS url for this assignment.
 
